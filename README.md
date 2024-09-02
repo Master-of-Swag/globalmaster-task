@@ -1,1 +1,1 @@
-# globalmaster-task
+Zadanie zostało wykonane zgodnie z poleceniem.
